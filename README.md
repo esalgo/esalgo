@@ -54,7 +54,7 @@ Robust REST API with JWT authentication, differentiated role-based access contro
 🔗 [View repository](https://github.com/esalgo/task-manager.git)
 
 ### Lingua Academia — A customer-service assistant for a simulated language academy *(completed)* 
-built on n8n cloud, answers questions (schedules, pricing, courses) via Telegram or a web form, 
+Built on n8n cloud, answers questions (schedules, pricing, courses) via Telegram or a web form, 
 
 - Using RAG over the academy's documents; remembers the last 10 turns, escalates to a human by email when it can't answer, and shows a stats dashboard.
 - Stack: **n8n Cloud (orchestration) · OpenAI (gpt-4.1-mini + embeddings) · Pinecone (vector DB) · Google Drive (documents) · Google Sheets (logs) · Gmail (escalation) · Telegram Bot API · plain HTML/CSS/JS frontend, no frameworks.**
@@ -63,8 +63,7 @@ built on n8n cloud, answers questions (schedules, pricing, courses) via Telegram
 
 ### Celeris — AI-Powered Operations Platform for Event Production Agencies (Collaborative project, I worked as Backend developer)
 
-Celeris is a white-label, multi-tenant SaaS platform for ATL/BTL event-production agencies. It replaces scattered spreadsheets with a single workspace covering the full operations   
-  cycle — from quote generation to invoicing — all under the agency's own branding.                                                                                                     
+Celeris is a white-label, multi-tenant SaaS platform for ATL/BTL event-production agencies. It replaces scattered spreadsheets with a single workspace covering the full operations cycle — from quote generation to invoicing — all under the agency's own branding.                                                                                                     
                                                                                                                                                                                                       
   - AI-assisted event planning — generate a full event plan from a natural-language brief: the AI classifies the event by attendance tier, scales quantities, prices items against      
   Colombian market ranges, and marks each line as owned inventory vs. external supplier. Financials (cost, revenue, margin) are computed deterministically so the numbers always cohere.
