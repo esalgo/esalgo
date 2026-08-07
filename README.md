@@ -13,7 +13,7 @@ Junior developer focused on AI/ML Engineering, workflow automation, and backend 
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -24,19 +24,19 @@ Junior developer focused on AI/ML Engineering, workflow automation, and backend 
 ```
 ML / AI       →  PyTorch · Scikit-learn · LangChain · LangGraph · Ollama · ChromaDB · Pgvector
 Fine-tuning   →  QLoRA · LoRA
-Data          →  Pandas · NumPy · Matplotlib · Seaborn · Plotly
+Data          →  Pandas · NumPy · Matplotlib · Plotly
 Backend       →  Python · FastAPI · Django · DRF · Node.js · Express
-Databases     →  PostgreSQL · MySQL · MongoDB
-Automation    →  n8n
+Databases     →  PostgreSQL · MySQL
+Automation    →  n8n · Microsoft Power Automate
 DevOps        →  Docker · Git · GitHub
-Frontend      →  HTML · CSS · JavaScript · TypeScript
+Frontend      →  HTML · CSS · JavaScript · TypeScript · Angular
 ```
 
 ---
 
-## Featured projects
+## 🚀 Featured projects
 
-### SOS-AuxilioBot — First aid agent *(completed)*
+### 🤖 SOS-AuxilioBot — First aid agent *(completed)*
 First-aid conversational agent that guides users step by step through a medical emergency. With text, audio, and image support — because in a critical situation, typing is not always an option.
 - RAG architecture with a knowledge base built from MSD Manuals (custom scraper)
 - Automatic interpretation of vital signs: temperature, pulse, respiratory rate
@@ -44,7 +44,7 @@ First-aid conversational agent that guides users step by step through a medical 
 
 🔗 [View repository](https://github.com/esalgo/SOS-AuxilioBot.git)
 
-### Task Manager — REST API with role-based access control *(completed)*
+### ✅ Task Manager — REST API with role-based access control *(completed)*
 Robust REST API with JWT authentication, differentiated role-based access control (user and administrator), and integrated SPA.
 - Scalable, typed, and maintainable architecture with TypeScript and pnpm
 - Role-based dashboards and permissions; secure JWT authentication
@@ -53,7 +53,7 @@ Robust REST API with JWT authentication, differentiated role-based access contro
 
 🔗 [View repository](https://github.com/esalgo/task-manager.git)
 
-### Lingua Academia — A customer-service assistant for a simulated language academy *(completed)* 
+### 📚 Lingua Academia — A customer-service assistant for a simulated language academy *(completed)* 
 Built on n8n cloud, answers questions (schedules, pricing, courses) via Telegram or a web form, 
 
 - Using RAG over the academy's documents; remembers the last 10 turns, escalates to a human by email when it can't answer, and shows a stats dashboard.
@@ -61,7 +61,7 @@ Built on n8n cloud, answers questions (schedules, pricing, courses) via Telegram
 
 🔗 [View repository](https://github.com/esalgo/lingua-academia.git)
 
-### Celeris — AI-Powered Operations Platform for Event Production Agencies (Collaborative project, I worked as Backend developer)
+### 📊 Celeris — AI-Powered Operations Platform for Event Production Agencies (Collaborative project, I worked as Backend developer)
 
 Celeris is a white-label, multi-tenant SaaS platform for ATL/BTL event-production agencies. It replaces scattered spreadsheets with a single workspace covering the full operations cycle — from quote generation to invoicing — all under the agency's own branding.                                                                                                     
                                                                                                                                                                                                       
@@ -81,7 +81,7 @@ Celeris is a white-label, multi-tenant SaaS platform for ATL/BTL event-productio
 
 🔗 [View deployed](https://celeris-beta.vercel.app/)
 
-### Dental Office Management System *(active development)*
+### 🦷 Dental Office Management System *(active development)*
 Full web system with differentiated roles (patient, dentist, administrator), appointment scheduling, and clinical records. Hybrid MVT + REST API architecture structured in independent domain applications.
 - Custom user model with token-based password recovery
 - DB-level integrity constraints to prevent scheduling conflicts
@@ -90,7 +90,7 @@ Full web system with differentiated roles (patient, dentist, administrator), app
 
 🔗 [View repository](https://github.com/esalgo/sonrisas.git)
 
-### Local AI Assistant with RAG *(active development)*
+### 🧠 Local AI Assistant with RAG *(active development)*
 Built with full data privacy as a core design decision — no external API calls, no data leaving the machine. Ideal for use cases where information privacy is critical.
 - Semantic search over personal documents (PDFs, Word files) with ChromaDB
 - Local orchestration with Ollama; web interface with FastAPI
@@ -100,7 +100,7 @@ Built with full data privacy as a core design decision — no external API calls
 
 ---
 
-## Currently learning
+## 🎯 Currently learning
 
 **Applying in projects:**
 - Advanced RAG patterns for production AI apps (Adaptive RAG, Self-RAG, Agentic RAG)
@@ -108,7 +108,7 @@ Built with full data privacy as a core design decision — no external API calls
 
 **Studying:**
 - Training and fine-tuning deep learning models with QLoRA — efficient adaptation for specific tasks
-- MLOps: model deployment, monitoring, and lifecycle management
-- NestJS · CI/CD
+- Angular
+- CI/CD
 
 ---
